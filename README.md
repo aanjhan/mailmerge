@@ -7,6 +7,9 @@ The script gathers all the necessary information to generate a "mailto:" URL, th
 
 It was born out of frustration with macOS's lack of a native equivalent to Microsoft’s mail merge functionality, and the limitations of the Microsoft suite on macOS (e.g., inability to add CC addresses in mail merges).
 
+## Usage
+Just run mailmerge.py in your favorite way.
+
 ## Features
 
 - Reads a CSV file containing email addresses and recipient names.
