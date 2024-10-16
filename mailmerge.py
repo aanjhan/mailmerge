@@ -4,8 +4,6 @@ Script for Sending Personalized Emails via 'mailto:' Links
 This script reads email addresses and names from a CSV file, and email body content from a text file.
 It opens a new compose window in the default email client with the subject, body, and recipients pre-filled.
 Users can manually review and send the email, then press 'Enter' to move to the next recipient.
-
-Author: Aanjhan Ranganathan
 """
 
 import csv
