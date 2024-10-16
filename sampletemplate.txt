@@ -1,0 +1,6 @@
+Dear [Name],
+
+This is the body of the email.
+
+Best regards,
+Your Company
